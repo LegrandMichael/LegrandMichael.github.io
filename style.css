@@ -1,0 +1,23 @@
+body {
+
+  background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-163904.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  font-family: 'Josefin Sans', Arial, sans-serif;
+}
+
+#img {
+  height: 50%; 
+  width: 50%;
+}
+
+.page-header ul {
+  font-style: italic;
+}
+
+.progress-bar {
+  display: block;
+  width: 15%;
+  height: 2em;
+}
