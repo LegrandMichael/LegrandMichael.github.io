@@ -1,9 +1,7 @@
 body {
 
-  background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-163904.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-163904.jpg") no-repeat center center fixed;
+  background-size: 100% auto cover;
   color: white;
   font-family: 'Josefin Sans', Arial, sans-serif;
 }
